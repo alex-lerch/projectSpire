@@ -1,0 +1,42 @@
+program design:
+	player's character auto-fights using their base attack value and skills a percentage of the time.
+	The percentage of the time that a particular skill will be used should be displayed.
+	it should be possible for the character to have their base attack and a number of skills used on the
+	same turn if they are lucky enough for the numbers to be rolled.
+	after each battle the player is presented with a few boons(equipment/skills/stats/refill health)
+	and they can choose any one among them. boons must be randomly generated with powerful ones generated
+	less frequently. At the start of a new round player should be presented with two options for which
+	enemy to battle next.
+
+	any items that provide defense percentage should contribute to the character's overall defense
+	percentage. This percentage indicates how frequently incoming damage will be negated.
+	this percentage should be displayed for the player to see during battle.
+
+
+what to do next:
+
+	* add reward selection screen
+
+
+
+
+	possible alternative theme to game:
+			
+			player is the night.
+
+			Story: A child does not want to go to school anymore (possible reason: they are being
+			bullied, or they don't want to take a test). The night hears the child's wish and decides
+			to resist relenting and giving
+			way to the daytime. The moon decides to help the night defeat the day.
+			The day finds out about this and sends warriors of light. The night
+			must defeat all of the warriors of light to defeat the day and bring about permanent
+			nighttime. The day sends two enemies per round. The moon automatically defeats one enemy
+			for free. This means the player simply chooses which of the two enemies they would like to
+			fight that round.
+			The sun is the final boss
+
+			possible rewards:
+					allies that have different status effects (ex: the tide, selenophobia, etc.)
+					increase of atk
+					increase of def percentage
+					heal a portion of health
